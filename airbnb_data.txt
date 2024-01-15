@@ -1,0 +1,100 @@
+13358	Monthly (or Longer ) Designer One Bedroom Downtown	West End	Entire home/apt	150	3	2.88	82
+13490	Vancouver's best kept secret	Kensington-Cedar Cottage	Entire home/apt	150	30	0.68	165
+14267	EcoLoft Vancouver	Kensington-Cedar Cottage	Entire home/apt	150	3	0.23	0
+14424	Spacious one-bedroom in sought-after Strathcona	Downtown Eastside	Entire home/apt	108	30	1.68	81
+16254	Close to PNE/Hastings Park Garden level suite	Hastings-Sunrise	Entire home/apt	350	3	0.13	101
+16611	"1 block to skytrain station, shops,restaurant,bank"	Grandview-Woodland	Entire home/apt	100	365	0.05	90
+17158	Vancouver 4br 3ba house 20min to DT	Renfrew-Collingwood	Entire home/apt	195	5	0.05	10
+17765	"Central location, nice little apartment"	Mount Pleasant	Entire home/apt	94	5	1.64	0
+18270	private rm in clean central 2BR apt	Mount Pleasant	Private room	51	30	0.83	225
+18589	Commercial Drive B&B	Grandview-Woodland	Private room	110	1	3.24	174
+18795	*Best choice in downtown-5 Stars  -2	West End	Private room	75	30	0.9	247
+20085	Bright & Cheerful Uptown Garden Suite	Kensington-Cedar Cottage	Entire home/apt	99	30	0.49	192
+21912	PRIVATE ROOM + BATH + KING BED + dedicated entry	Renfrew-Collingwood	Private room	66	30	2.69	313
+21913	PRIVATE  SUITE (KITCHEN+ BEDROOM+BATH+LIVING ROOM)	Renfrew-Collingwood	Entire home/apt	76	30	1.65	225
+24273	Walker's paradise in Kitsilano	Kitsilano	Entire home/apt	140	30	0.14	141
+26047	The Alpha Downtown by COMFYSUITES	Downtown	Entire home/apt	169	30	0.29	326
+32746	Designer Urban Park View Townhouse	Downtown	Entire home/apt	127	30	0.58	364
+33150	"Suite on Main"  near  Q.E Park	Riley Park	Entire home/apt	125	4	0.7	239
+35102	FURNISHED 2Br + 2Br Yaletown PRIME location!	Downtown	Entire home/apt	140	30	0.51	309
+35304	"Private Studio in the  of ""The Drive"" 94"	Grandview-Woodland	Entire home/apt	89	2	3.49	215
+42645	The Charlie Downtown by COMFYSUITES	Downtown	Entire home/apt	179	30	0.23	138
+48146	Executive Furnished Apartment (2 months minimum)	Renfrew-Collingwood	Entire home/apt	110	50	0.55	365
+49736	Boutique Studio Apartment in Kits!	Kitsilano	Entire home/apt	1950	31	0.06	0
+70453	"Open-concept, Modern Heritage Home with over 20 Skylights"	Downtown Eastside	Entire home/apt	402	3	0.34	0
+72659	Central Convenient Vibrant Neighbourhood!	Grandview-Woodland	Entire home/apt	210	7	0.1	37
+73841	Amazing Downtown Vancouver Condo!	Downtown	Entire home/apt	129	30	0.15	173
+77157	Room with a Garden View!	Arbutus Ridge	Entire home/apt	155	2	5.01	286
+98830	Your Downtown Executive Suite	Downtown	Entire home/apt	149	30	1.92	0
+125176	Main Street Vineyard	Riley Park	Private room	85	3	4.33	303
+134688	"West view, Transit convenient, clean & comfortable"	Renfrew-Collingwood	Private room	40	30	0.31	196
+140698	"1905 Heritage Loft, Main/Broadway, Olympic Village"	Mount Pleasant	Entire home/apt	99	6	1.05	179
+170137	Family friendly Point Grey Home	Dunbar Southlands	Entire home/apt	175	2	1.53	36
+172827	Charming and Homely Downtown Penthouse	Downtown	Entire home/apt	400	10	0.13	0
+174135	VANCOUVER'S BEST PRIVATE SUITE/LOFT	Downtown Eastside	Entire home/apt	90	30	0.88	1
+182451	KITS SUPER CENTRAL DELIGHTFULL APT!	Kitsilano	Entire home/apt	131	30	0.41	115
+219261	A Real Gem in the Heart of Kits	Kitsilano	Entire home/apt	200	2	3.03	253
+248014	"Vancouver stunning views, comfort and location"	Grandview-Woodland	Entire home/apt	100	30	0.01	247
+254657	Heritage Loft in heart of Gastown	Downtown Eastside	Entire home/apt	250	4	0.71	0
+256178	Luxury Coach House in Kitsilano	Kitsilano	Entire home/apt	170	30	0.19	286
+258636	FABULOUS Luxury Downtown Vancouver!	Downtown	Entire home/apt	99	120	0.4	77
+306178	Sunset views - LGBTQ2+ friendly	Renfrew-Collingwood	Private room	101	2	0.68	179
+311354	Close to downtown/shops/restaurants/skytrain	Grandview-Woodland	Entire home/apt	100	365	0.1	90
+322824	Modern Yaletown 1BR GREAT VIEW + CENTRAL	Downtown	Entire home/apt	140	30	1.16	225
+359942	Stylish Modern Central Downtown	Downtown	Private room	257	2	0.35	364
+377706	Bright Spacious Bedroom Pvt Bath	Grandview-Woodland	Private room	48	30	0.47	119
+415700	"LARGE PRIVATE ROOM+BATH, KING BED, dedicated entry"	Renfrew-Collingwood	Private room	75	30	1.83	313
+436032	Trendy & Spacious 2 bd Gastown Loft	Downtown Eastside	Entire home/apt	285	3	1.01	320
+448104	Home (Office) Away from Home – Heart of Downtown	Downtown	Entire home/apt	148	30	2.07	31
+461370	Lovely large room w/ private bath	Killarney	Private room	139	2	0.38	365
+461386	Beautiful room (s) Vancouver Home	Killarney	Private room	134	2	0.32	365
+464172	"House in sought-after Sunrise Hastings, Vancouver"	Hastings-Sunrise	Entire home/apt	281	2	0.04	0
+475296	Inspiring Gastown loft with deck + rooftop	Downtown Eastside	Entire home/apt	829	2	1.7	346
+485225	Vancouver One Bedroom	Downtown	Entire home/apt	375	2	0.01	365
+496298	"Downtown 1Bed+Den, stylish & modern"	Downtown	Entire home/apt	131	31	1.26	277
+498112	Central Modern House with View and 2 Kitchens	Kensington-Cedar Cottage	Entire home/apt	375	9	0.28	179
+540348	Modern Architectural lakeside Home On The Park	Kensington-Cedar Cottage	Entire home/apt	459	1	0.54	341
+557357	Commercial Dr West Coast Garden Ste	Grandview-Woodland	Entire home/apt	80	30	1.53	329
+622217	Sub-Penthouse with Amazing Views in Heart of City	Downtown	Entire home/apt	566	2	0.49	299
+625396	Close to Jericho beach garden level open space.	Kitsilano	Private room	380	2	1.36	324
+648026	Quiet Oasis Garden Suite - Steps from the Drive	Grandview-Woodland	Entire home/apt	61	30	0.51	111
+654744	English Bay Hideaway @ Stanley Park	West End	Entire home/apt	150	30	0.6	213
+654763	1 Bedroom Private Furnished Suite	Kensington-Cedar Cottage	Entire home/apt	52	30	0.19	47
+659986	Nice room in amazing luxury home near DOWNTOWN+UBC	South Cambie	Private room	101	31	0.22	0
+703179	Entire cute  condo full of art	Downtown	Entire home/apt	154	28	1.43	1
+713271	Luxury Seaview Studio Suite - Westend	West End	Entire home/apt	135	30	0.76	135
+731219	Kitsilano Laneway House - Quiet Neighbourhood	Kitsilano	Entire home/apt	155	31	0.11	106
+980511	"261 Yaletown Studio at ""Space"""	Downtown	Entire home/apt	83	30	0.1	0
+735468	English Bay Views	West End	Entire home/apt	229	1	3.3	254
+755558	Kitsilano 2 bdrm Garden Level Suite	Kitsilano	Entire home/apt	125	2	0.68	0
+763445	Very Convenient Mini-suite	Renfrew-Collingwood	Entire home/apt	64	4	1.66	46
+771366	Level  Studio  Lux Amenities Downtown Vancouver	Downtown	Entire home/apt	120	30	0.05	348
+771380	Level  Two Bedroom Suite  Luxe Amenities	Downtown	Entire home/apt	260	30	0.08	364
+784153	The Garden Quarter in Kitsilano	Kitsilano	Entire home/apt	74	30	0.45	215
+785297	The Nook in Kitsilano	Kitsilano	Private room	86	14	0.63	198
+785752	The Garden Nook in Kitsilano	Kitsilano	Entire home/apt	134	30	0.03	257
+796603	Exellent for International Student	West End	Shared room	30	30	0	0
+801222	fully furnished suite near VGH	Fairview	Entire home/apt	106	30	0.2	172
+824612	East Village Private Garden Gem!	Hastings-Sunrise	Entire home/apt	84	31	0.57	56
+875309	Heritage Home near Kits Beach	Kitsilano	Entire home/apt	375	7	0.29	21
+885600	"Dunbar near UBC: Clean, comfortable + quiet"	Dunbar Southlands	Entire home/apt	130	3	2.01	166
+994969	152 Studio (no Bedroom)	Downtown	Entire home/apt	80	30	0.03	48
+958090	Private apartment-Yaletown Downtown	Downtown	Entire home/apt	454	30	0.08	365
+961006	Oakridge Canada Line completely renovated home	Riley Park	Entire home/apt	219	1	0.06	0
+995174	159 2 BEDROOM/ 2 FULL BATH-ideal for sharing!	West End	Entire home/apt	111	30	0.11	34
+961831	Spacious Room in Character Home	Kitsilano	Private room	81	4	1.54	158
+1007137	S2-LUXURIOUS 2-BR/2-Baths/2-Balcony	Downtown	Entire home/apt	280	180	0.02	365
+2493042	False creek penthouse with view	Fairview	Entire home/apt	135	30	0	358
+3859085	Perfect Find for Solo Traveler!	Mount Pleasant	Private room	86	3	4.08	196
+2502137	New Edwardian home	Mount Pleasant	Entire home/apt	75	30	0.5	297
+1007144	S1-VIBRANT DOWNTOWN 1-BR + den!	Downtown	Entire home/apt	180	180	0.01	365
+3888379	"Budget & Beautiful on ""The Drive"" + Gigabit Fiber"	Grandview-Woodland	Entire home/apt	100	4	0.73	89
+2521520	2 bedroom  house Central location (M)	Killarney	Entire home/apt	232	30	0.16	365
+2532975	New Beautiful  2 bedrooms  Garden suite  w/patio	Hastings-Sunrise	Entire home/apt	165	3	0.44	365
+2576878	"Bright 1 bed suite, great location"	Fairview	Entire home/apt	106	30	0.07	249
+2592307	Ann's Place	South Cambie	Entire home/apt	112	2	6.09	143
+2632171	Yvette's place	Hastings-Sunrise	Private room	100	1	0.76	365
+2637519	Heritage Splendor Commercial Drive	Grandview-Woodland	Entire home/apt	358	30	0.13	0
+2644110	Modern 2 Level Loft in East Van	Grandview-Woodland	Entire home/apt	113	6	0.21	0
+2653578	LOCATION!!! RENOVATED!!! SLEEPS 2-4!!	Downtown	Entire home/apt	124	1	5.62	30
+2658803	"266  -2 bedroom /sleeps 4 ""The Electra"" Downtown"	West End	Entire home/apt	104	30	0.18	0
